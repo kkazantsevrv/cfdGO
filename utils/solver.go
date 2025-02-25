@@ -131,6 +131,7 @@ func (solver *Solver) Approximate_parts() {
 	if err != nil {
 		fmt.Println("error", err)
 	}
+	slv.Free()
 }
 
 func (solver *Solver) Write_to_file(filename string) error {
