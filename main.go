@@ -8,9 +8,9 @@ import (
 )
 
 func main() {
-	filename := "tetragrid_10000.vtk"
+	filename := "tetragrid_40k.vtk"
 	start := time.Now()
-	grid2d, _ := utils.Grid(filename)
+	grid2d, _ := utils.Grid("test_data/" + filename)
 	grid2d.Need_cell_centers()
 	var solver utils.Solver
 	solver.Set_bnd_type(2)
