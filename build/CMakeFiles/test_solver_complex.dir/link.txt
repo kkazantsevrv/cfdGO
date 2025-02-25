@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/test_solver_complex.dir/test_solver_complex.o -o test_solver_complex  -lamgcl 

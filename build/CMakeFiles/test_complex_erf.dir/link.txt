@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/test_complex_erf.dir/test_complex_erf.o -o test_complex_erf  -lamgcl 

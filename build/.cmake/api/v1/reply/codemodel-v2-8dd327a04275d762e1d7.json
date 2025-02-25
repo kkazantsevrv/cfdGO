@@ -1,0 +1,128 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "test_complex_erf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_complex_erf-Debug-9a5f5512205b57356a91.json",
+					"name" : "test_complex_erf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_io::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_io-Debug-dc30228d2747de5ff1a2.json",
+					"name" : "test_io",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_qr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_qr-Debug-5a52e47b18f71634adde.json",
+					"name" : "test_qr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_skyline_lu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_skyline_lu-Debug-b02f23d56dc37a62c1e7.json",
+					"name" : "test_skyline_lu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_solver_block_crs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_solver_block_crs-Debug-105bdb770b2d871078ff.json",
+					"name" : "test_solver_block_crs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_solver_builtin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_solver_builtin-Debug-8b0a030a70b865c35386.json",
+					"name" : "test_solver_builtin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_solver_complex::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_solver_complex-Debug-32ab77ef0beb6f9250ce.json",
+					"name" : "test_solver_complex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_solver_ns_builtin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_solver_ns_builtin-Debug-e7142c7d13431a2f05c3.json",
+					"name" : "test_solver_ns_builtin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_static_matrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_static_matrix-Debug-bcd25f31d25192ab4c1b.json",
+					"name" : "test_static_matrix",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/user/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/projects/golang/ff/build",
+		"source" : "/home/user/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/projects/golang/ff/vendor/tests"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

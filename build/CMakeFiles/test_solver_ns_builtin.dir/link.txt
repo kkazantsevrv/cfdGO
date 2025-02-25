@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/test_solver_ns_builtin.dir/test_solver_ns_builtin.o -o test_solver_ns_builtin  -lamgcl 

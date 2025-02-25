@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/test_solver_block_crs.dir/test_solver_block_crs.o -o test_solver_block_crs  -lamgcl 

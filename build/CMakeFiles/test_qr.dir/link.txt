@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/test_qr.dir/test_qr.o -o test_qr  -lamgcl 

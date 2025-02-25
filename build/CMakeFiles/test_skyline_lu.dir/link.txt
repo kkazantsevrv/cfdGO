@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/test_skyline_lu.dir/test_skyline_lu.o -o test_skyline_lu  -lamgcl 

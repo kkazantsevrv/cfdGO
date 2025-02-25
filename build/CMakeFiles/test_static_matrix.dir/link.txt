@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/test_static_matrix.dir/test_static_matrix.o -o test_static_matrix  -lamgcl 

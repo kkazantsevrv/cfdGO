@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/user/Рабочий стол/projects/golang/ff/build",
+  "command": "/usr/bin/g++ -DBOOST_TEST_DYN_LINK  -g -o CMakeFiles/test_skyline_lu.dir/test_skyline_lu.o -c \"/home/user/Рабочий стол/projects/golang/ff/vendor/tests/test_skyline_lu.cpp\"",
+  "file": "/home/user/Рабочий стол/projects/golang/ff/vendor/tests/test_skyline_lu.cpp"
+},
+{
+  "directory": "/home/user/Рабочий стол/projects/golang/ff/build",
+  "command": "/usr/bin/g++ -DBOOST_TEST_DYN_LINK  -g -o CMakeFiles/test_complex_erf.dir/test_complex_erf.o -c \"/home/user/Рабочий стол/projects/golang/ff/vendor/tests/test_complex_erf.cpp\"",
+  "file": "/home/user/Рабочий стол/projects/golang/ff/vendor/tests/test_complex_erf.cpp"
+},
+{
+  "directory": "/home/user/Рабочий стол/projects/golang/ff/build",
+  "command": "/usr/bin/g++ -DBOOST_TEST_DYN_LINK  -g -o CMakeFiles/test_qr.dir/test_qr.o -c \"/home/user/Рабочий стол/projects/golang/ff/vendor/tests/test_qr.cpp\"",
+  "file": "/home/user/Рабочий стол/projects/golang/ff/vendor/tests/test_qr.cpp"
+},
+{
+  "directory": "/home/user/Рабочий стол/projects/golang/ff/build",
+  "command": "/usr/bin/g++ -DBOOST_TEST_DYN_LINK  -g -o CMakeFiles/test_solver_builtin.dir/test_solver_builtin.o -c \"/home/user/Рабочий стол/projects/golang/ff/vendor/tests/test_solver_builtin.cpp\"",
+  "file": "/home/user/Рабочий стол/projects/golang/ff/vendor/tests/test_solver_builtin.cpp"
+},
+{
+  "directory": "/home/user/Рабочий стол/projects/golang/ff/build",
+  "command": "/usr/bin/g++ -DBOOST_TEST_DYN_LINK  -g -o CMakeFiles/test_solver_complex.dir/test_solver_complex.o -c \"/home/user/Рабочий стол/projects/golang/ff/vendor/tests/test_solver_complex.cpp\"",
+  "file": "/home/user/Рабочий стол/projects/golang/ff/vendor/tests/test_solver_complex.cpp"
+},
+{
+  "directory": "/home/user/Рабочий стол/projects/golang/ff/build",
+  "command": "/usr/bin/g++ -DBOOST_TEST_DYN_LINK  -g -o CMakeFiles/test_solver_block_crs.dir/test_solver_block_crs.o -c \"/home/user/Рабочий стол/projects/golang/ff/vendor/tests/test_solver_block_crs.cpp\"",
+  "file": "/home/user/Рабочий стол/projects/golang/ff/vendor/tests/test_solver_block_crs.cpp"
+},
+{
+  "directory": "/home/user/Рабочий стол/projects/golang/ff/build",
+  "command": "/usr/bin/g++ -DBOOST_TEST_DYN_LINK  -g -o CMakeFiles/test_solver_ns_builtin.dir/test_solver_ns_builtin.o -c \"/home/user/Рабочий стол/projects/golang/ff/vendor/tests/test_solver_ns_builtin.cpp\"",
+  "file": "/home/user/Рабочий стол/projects/golang/ff/vendor/tests/test_solver_ns_builtin.cpp"
+},
+{
+  "directory": "/home/user/Рабочий стол/projects/golang/ff/build",
+  "command": "/usr/bin/g++ -DBOOST_TEST_DYN_LINK  -g -o CMakeFiles/test_io.dir/test_io.o -c \"/home/user/Рабочий стол/projects/golang/ff/vendor/tests/test_io.cpp\"",
+  "file": "/home/user/Рабочий стол/projects/golang/ff/vendor/tests/test_io.cpp"
+},
+{
+  "directory": "/home/user/Рабочий стол/projects/golang/ff/build",
+  "command": "/usr/bin/g++ -DBOOST_TEST_DYN_LINK  -g -std=c++0x -o CMakeFiles/test_static_matrix.dir/test_static_matrix.o -c \"/home/user/Рабочий стол/projects/golang/ff/vendor/tests/test_static_matrix.cpp\"",
+  "file": "/home/user/Рабочий стол/projects/golang/ff/vendor/tests/test_static_matrix.cpp"
+}
+]
